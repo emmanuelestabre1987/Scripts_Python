@@ -13,4 +13,4 @@ print(frutas_sin_mandarina)
 
 frutas2= [fruta if fruta != "Pera" else "Aguacate" for fruta in frutas]
 
-print(frutas2)
+print(frut

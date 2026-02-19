@@ -19,6 +19,7 @@ while i < len(frutas):
     print(frutas[i])
     i+=1
     """
+# Shorthand
 [print(fruta for fruta in frutas)]
 
 
