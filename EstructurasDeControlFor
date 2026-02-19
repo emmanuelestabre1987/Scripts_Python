@@ -1,0 +1,6 @@
+
+for i in range(100): # Cada vez que recorra el rango se ira asignando cad anumero en la variable i
+    if i == 50:
+        print("Paso por el numero 50")
+    else:
+        print("No es el numero 2, es el numero:", i)
