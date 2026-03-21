@@ -15,3 +15,4 @@ print(tupla_frutas.count("Manzana"))
 
 tupla_frutas=("Manzana","Uva","Fresa","Mandarina", "Aguacate","Naranja","Kiwi")
 print(tupla_frutas.index("Uva"))
+
